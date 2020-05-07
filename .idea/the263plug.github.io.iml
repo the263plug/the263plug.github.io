@@ -7,5 +7,7 @@
     <orderEntry type="library" name="analytics" level="application" />
     <orderEntry type="library" name="jquery-3.4.1" level="application" />
     <orderEntry type="library" name="lottie-player" level="application" />
+    <orderEntry type="library" name="wavesurfer" level="application" />
+    <orderEntry type="library" name="howler.core" level="application" />
   </component>
 </module>
