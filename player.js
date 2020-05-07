@@ -274,7 +274,7 @@ Player.prototype = {
 // Setup our new audio player class and pass it the playlist.
 var player = new Player([
   {
-    title: "Mother's Day Radio",
+    title: "Vibe Check Radio<br/>Mother's Day Edition",
     file: 'website2',
     howl: null
   }
@@ -357,9 +357,9 @@ var wave = new SiriWave({
   width: window.innerWidth,
   height: window.innerHeight * 0.7,
   cover: true,
-  speed: 0.03,
-  amplitude: 0.7,
-  frequency: 2,
+  speed: 0.05,
+  amplitude: 0.8,
+  frequency: 4,
   style: "ios",
   color: "#FFF"
 });
